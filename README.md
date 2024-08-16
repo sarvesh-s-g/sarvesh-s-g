@@ -1,8 +1,8 @@
 <h1>- 👋 Hi, I’m @sarvesh-s-g (Sarvesh S G)</h1>
-- 👀 I’m interested in coding and programming
-- 🌱 I’m currently learning c++ and javascript
-- 💞️ I’m looking to collaborate on MERN projects and DSA questions
-- 📫 Reach me through email => sarveshsg2005@gmail.com
+- 👀 I’m interested in coding and programming <br>
+- 🌱 I’m currently learning c++ and javascript <br>
+- 💞️ I’m looking to collaborate on MERN projects and DSA questions <br>
+- 📫 Reach me through email => sarveshsg2005@gmail.com <br>
 
 
 <!---
