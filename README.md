@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and programming <br>
 - 🌱 I’m currently learning c++ and javascript <br>
 - 💞️ I’m looking to collaborate on MERN projects and DSA questions <br>
-- 📫 Reach me through email => sarveshsg2005@gmail.com <br>
+- 📫 Reach me through email => <a href=mailto:“sarveshsg2005@gmail.com”>sarveshsg2005@gmail.com</a> <br>
 
 
 <!---
