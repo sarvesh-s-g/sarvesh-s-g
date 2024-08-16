@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sarvesh-s-g (Sarvesh S G)
+<h1>- 👋 Hi, I’m @sarvesh-s-g (Sarvesh S G)</h1>
 - 👀 I’m interested in coding and programming
 - 🌱 I’m currently learning c++ and javascript
 - 💞️ I’m looking to collaborate on MERN projects and DSA questions
